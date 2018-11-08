@@ -1,0 +1,3 @@
+[submodule "gun-violence-data"]
+	path = gun-violence-data
+	url = https://github.com/jamesqo/gun-violence-data.git
